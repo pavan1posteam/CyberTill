@@ -1,0 +1,137 @@
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+E:\Bottlecapps\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\bin\Debug\RestSharp.dll
+C:\Workspace\MobileUpdater\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csprojResolveAssemblyReference.cache
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Workspace\separate projects api\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Workspace\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Workspace\separate projects api\CyberTillAPI.1\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Users\ycs\Downloads\CyberTillAPI (1)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+E:\MAU Projects\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+E:\MAU Projects\CyberTillAPI_old\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+D:\MAU\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Users\techmatic\Downloads\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+D:\MAUALLPROJECTS\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+D:\API - Projects\CyberTillAPI\CyberTillAPI\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Users\Dell\Downloads\CyberTillAPI (2)\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+E:\C# API codes\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+E:\C# API codes\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+E:\C# API codes\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+E:\C# API codes\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+E:\C# API codes\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+E:\C# API codes\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+E:\C# API codes\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+E:\C# API codes\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+E:\C# API codes\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+C:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe.config
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.exe
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\CyberTillAPI.pdb
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.AssemblyReference.cache
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CoreCompileInputs.cache
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.csproj.CopyComplete
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.exe
+D:\Bottlecapps\API\CyberTillAPI\CyberTillAPI\obj\Debug\CyberTillAPI.pdb
