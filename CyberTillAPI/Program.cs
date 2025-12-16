@@ -26,19 +26,20 @@ namespace CyberTillAPI
 			string includedcategory = ConfigurationManager.AppSettings["included-category"];
 			string categorynotincluded = ConfigurationManager.AppSettings["category-not-included"];
 			string irrespectivestock = ConfigurationManager.AppSettings["irrespective-stock"];
-			//string IrrespctioveOfStockAndTax = ConfigurationManager.AppSettings["IrrespctioveOfStockAndTax"];
-			string upclength = ConfigurationManager.AppSettings["upc-length"];
+            string priceStore = ConfigurationManager.AppSettings["PriceStore"];
+            //string IrrespctioveOfStockAndTax = ConfigurationManager.AppSettings["IrrespctioveOfStockAndTax"];
+            string upclength = ConfigurationManager.AppSettings["upc-length"];
 			try
 			{
 				StoreSettings.POSSettings pOSSettings = new StoreSettings.POSSettings();
 				pOSSettings.IntializeStoreSettings();
 				foreach (StoreSettings.POSSetting posDetail in pOSSettings.PosDetails)
                 {
-                    /* if (posDetail.StoreSettings.StoreId == 11628)
+                     if (posDetail.StoreSettings.StoreId == 11628)
                     {
                       Console.WriteLine("fetching_storeid = " + posDetail.StoreSettings.StoreId);
                     }
-                    else { continue; }*/
+                    else { continue; }
                     int storeid = posDetail.StoreSettings.StoreId;
                     baseUrl = posDetail.StoreSettings.POSSettings.BaseUrl;
                     storeUrl = posDetail.StoreSettings.POSSettings.StoreUrl;
@@ -58,10 +59,11 @@ namespace CyberTillAPI
                     decimal tax = posDetail.StoreSettings.POSSettings.tax;
                     decimal MIxtax = posDetail.StoreSettings.POSSettings.Mixerstax;
 
-                    //File.WriteAllText("ProductList11628.json", JsonConvert.SerializeObject(ProductList));
-                    //File.WriteAllText("ProductByCatList11628.json", JsonConvert.SerializeObject(ProductByCatList));
-                    //File.WriteAllText("BarcodeList11628.json", JsonConvert.SerializeObject(barcodeList));
-                   // File.WriteAllText("ProductStockList11628.json", JsonConvert.SerializeObject(ProductStockList));
+                    //   File.WriteAllText("ProductList11628.json", JsonConvert.SerializeObject(ProductList));
+
+                    //  File.WriteAllText("ProductByCatList11628.json", JsonConvert.SerializeObject(ProductByCatList));
+                    //  File.WriteAllText("BarcodeList11628.json", JsonConvert.SerializeObject(barcodeList));
+                    //  File.WriteAllText("ProductStockList11628.json", JsonConvert.SerializeObject(ProductStockList));
 
                     if (includedcategory.Contains(storeid.ToString()))
                     {
@@ -166,7 +168,14 @@ namespace CyberTillAPI
                                                              pack = 1,
                                                              StoreProductName = p.ProductOption.Product.Name,
                                                              StoreDescription = p.ProductOption.Product.Name,
-                                                             Price = ((Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) != Convert.ToDecimal(p.ProductOptionPrice.PriceStore)) ? Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) : Convert.ToDecimal(p.ProductOptionPrice.PriceStore)),
+                                                             /*Price = ((Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) != Convert.ToDecimal(p.ProductOptionPrice.PriceStore)) ? Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) : Convert.ToDecimal(p.ProductOptionPrice.PriceStore)),*/
+
+                                                             //as per #47086 (11628)
+                                                             Price = priceStore.Contains(storeid.ToString()) ? Convert.ToDecimal(p.ProductOptionPrice.PriceStore)
+                                                                        : (Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) != Convert.ToDecimal(p.ProductOptionPrice.PriceStore)
+                                                                        ? Convert.ToDecimal(p.ProductOptionPrice.PriceRrp)
+                                                                        : Convert.ToDecimal(p.ProductOptionPrice.PriceStore)),
+
                                                              sprice = ((!(DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Wednesday") && !(DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Tuesday")) ? ((Convert.ToDecimal(p.ProductOptionPrice.PriceRrp) != Convert.ToDecimal(p.ProductOptionPrice.PriceStore)) ? Convert.ToDecimal(p.ProductOptionPrice.PriceStore) : 0m) : (((pc.CatName.Trim() == "Wine" || pc.CatName.Trim() == "Boxed & Canned Wine") && DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Wednesday") ? Math.Round(Convert.ToDecimal(p.ProductOptionPrice.PriceStore) - Convert.ToDecimal(p.ProductOptionPrice.PriceStore) * Convert.ToDecimal(0.15), 2) : ((pc.CatName.Trim() == "Tequila" && DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Tuesday") ? Math.Round(Convert.ToDecimal(p.ProductOptionPrice.PriceStore) - Convert.ToDecimal(p.ProductOptionPrice.PriceStore) * Convert.ToDecimal(0.1), 2) : 0m))),
                                                              WedSprice = ((!(DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Wednesday") && !(DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Tuesday")) ? 0m : (((pc.CatName.Trim() == "Wine" || pc.CatName.Trim() == "Boxed & Canned Wine") && DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Wednesday") ? Math.Round(Convert.ToDecimal(p.ProductOptionPrice.PriceStore) - Convert.ToDecimal(p.ProductOptionPrice.PriceStore) * Convert.ToDecimal(0.15), 2) : ((pc.CatName.Trim() == "Tequila" && DateTime.UtcNow.AddHours(-5.0).ToString("dddd") == "Tuesday") ? Math.Round(Convert.ToDecimal(p.ProductOptionPrice.PriceStore) - Convert.ToDecimal(p.ProductOptionPrice.PriceStore) * Convert.ToDecimal(0.1), 2) : 0m))),
                                                              tax = ((pc.CatName == "Beer" || pc.CatName == "Micro-Beer" || pc.CatName == "Beer Keg") ? 0.105m : 0.125m),
@@ -203,6 +212,8 @@ namespace CyberTillAPI
                         Console.WriteLine("Fullname FIle Generated For Cybertill " + storeid);
                         Console.WriteLine();
                     }
+
+                    #region unused code
                     //else if (IrrespctioveOfStockAndTax.Contains(storeid.ToString()))
                     //{
                     //    List<StoreProductModel> list5 = (from p in ProductList
@@ -256,6 +267,8 @@ namespace CyberTillAPI
                     //    Console.WriteLine("Fullname FIle Generated For Cybertill " + storeid);
                     //    Console.WriteLine();
                     //}
+                    #endregion
+
                     else if (upclength.Contains(storeid.ToString()))
                     {
                         List<StoreProductModel> list = (from p in ProductList
