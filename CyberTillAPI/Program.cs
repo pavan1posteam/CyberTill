@@ -35,11 +35,12 @@ namespace CyberTillAPI
 				pOSSettings.IntializeStoreSettings();
 				foreach (StoreSettings.POSSetting posDetail in pOSSettings.PosDetails)
                 {
-                     if (posDetail.StoreSettings.StoreId == 11628)
+                     /*if (posDetail.StoreSettings.StoreId == 11628)
                     {
                       Console.WriteLine("fetching_storeid = " + posDetail.StoreSettings.StoreId);
                     }
-                    else { continue; }
+                    else { continue; }*/ 
+
                     int storeid = posDetail.StoreSettings.StoreId;
                     baseUrl = posDetail.StoreSettings.POSSettings.BaseUrl;
                     storeUrl = posDetail.StoreSettings.POSSettings.StoreUrl;
